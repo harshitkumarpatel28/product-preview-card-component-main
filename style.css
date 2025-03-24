@@ -133,6 +133,7 @@ footer {
 @media (min-width: 768px) {
     body {
         align-items: center;
+        margin: 0;
     }
 
     .product-card {
@@ -143,8 +144,6 @@ footer {
     .product-image, .product-details {
         width: 50%;
     }
-    
-    
     
     .product-image-desktop {
         border-top-left-radius: 8px;
